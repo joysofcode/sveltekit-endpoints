@@ -4,6 +4,8 @@
 
 Learn what are SvelteKit endpoints and when to use standalone endpoints and page endpoints.
 
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/joysofcode/sveltekit-endpoints)
+
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
