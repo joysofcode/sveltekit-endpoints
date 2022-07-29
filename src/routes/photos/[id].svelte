@@ -15,7 +15,7 @@
 
 	export const load: Load = async ({ props }) => {
 		if (browser) {
-			loadImage(props.photo.url)
+			await loadImage(props.photo.url)
 		}
 
 		return {
