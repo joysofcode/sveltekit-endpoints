@@ -1,18 +1,8 @@
-# create-svelte
+# SvelteKit Endpoints
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+✍️ https://joyofcode.xyz/sveltekit-endpoints
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+Learn what are SvelteKit endpoints and when to use standalone endpoints and page endpoints.
 
 ## Developing
 
